@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Exec=./Samz.sh
+Name=Samz
+GenericName=Samz
+Comment=Install Crypto Tools
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Categories=Application; Utility
+Path=./
